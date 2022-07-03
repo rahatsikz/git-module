@@ -8,3 +8,7 @@ small {
 #test {
   display: inline;
 }
+#lorem {
+  font-size: 16px;
+  background-color: aquamarine;
+}
